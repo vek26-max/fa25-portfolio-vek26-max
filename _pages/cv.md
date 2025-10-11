@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Vanessa Kacaj> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,54 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [vek26@cornell.edu](mailto:vek26@cornell.edu) | | | **Phone:** 516 787 0463
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in biochemistry experimentation, engineering mathematics, physics, and structural analysis projects. Passionate about understanding how materials and structures interact, and eager to apply my knowledge to real-world engineering challenges.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.0/4.0 | Graduation: May, 2028
 
 - **[High School Name]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Software:** ABS Nautical Systems,   
+- **Programming:** Python  
+- **Tools:** Micro-pipetting, X-Ray Crystallography, PCR, Genotyping, Cryo-EM, Gel Electrophoresis, Microsoft Suite, Naval Architecture Basics, Structural Analysis & Design Understanding  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Memorial Sloan Kettering Cancer Center Dinshaw Patel Laboratory - Intern**  
+  June, 2022 - November, 2024  
+  - Conducted independent graduate level research on RNA binding protein Msi2, wrote a research manuscript, and assisted in various different research groups  
+  - Wanted to determine the three-dimensional structure of Msi2 and also what RNA sequences it most likely binds to in order be able to create cancer therapeutics for this protein 
+
+- **Liberty Maritime Corporation - Intern**
+  June 2025 - July 2025
+  - Reviewed deck drawings for a PCTC cargo ship to support a deck strengthening project aimed at enhancing the vessel's utility, working alongside naval designers to meet structural requirements set by the U.S. military
+  - Researched alternative energy sources for PCTC and bulkers to reduce fuel use and emissions; collaborated with naval architects on integration strategies.
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Seal of Biliteracy in Spanish, 2024 
+- Health Career Development Certificate, 2023  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Concrete Canoe Mold Subteam   
 
 ---
 
