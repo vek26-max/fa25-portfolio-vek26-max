@@ -16,7 +16,7 @@ description              : Vanessa Kacaj- Projects and CV
 baseurl                  : "/fa25-portfolio-vek26-max" # Set this to your repo name 
 
 # Theme and Style
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
 
 sass:
@@ -42,4 +42,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
+
+include:
+  - _pages
 
