@@ -19,19 +19,19 @@ Aspiring engineering student with a strong foundation in biochemistry experiment
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.0/4.0 | Graduation: May, 2028
+  *Bachelor of Engineering*  
+  Graduation: May, 2028
 
-- **[High School Name]**  
+- **John F. Kennedy Highschool**  
   *High School Diploma*  
   Graduation: June, 2024
 
 ---
 
 #### Skills
-- **Software:** ABS Nautical Systems,   
+- **Software:** ABS Nautical Systems, MATLAB, Autodesk Fusions   
 - **Programming:** Python  
-- **Tools:** Micro-pipetting, X-Ray Crystallography, PCR, Genotyping, Cryo-EM, Gel Electrophoresis, Microsoft Suite, Naval Architecture Basics, Structural Analysis & Design Understanding  
+- **Tools:** Micro-pipetting, X-Ray Crystallography, PCR, Genotyping, Cryo-EM, Gel Electrophoresis, Microsoft Suite, Naval Architecture Basics, Structural Analysis & Design Understanding, lathe, milling  
 
 ---
 
